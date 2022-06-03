@@ -2,7 +2,7 @@
 
 /**
  * main - prints all possible combinations of single-digit numbers
- * return - returns 0
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
